@@ -1,19 +1,11 @@
-### Hi there 👋
+### Hi there, my name is Andreas 👋
 
-<!--
-**andreasmalta1/andreasmalta1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a Python Develope based in Malta.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+🏢 I'm currently working full-time with Stargate Studios as Pipeline Developer in the VFX industry
+⚙️ I use python daily
+🌱 Learning more about and studying: JavaScript, React and SQL
+📫 Reach me asap: LinkedIn or andreascalleja@gmail.com
+💜 Interests: football and football data analysis
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andreasmalta1)](https://git.io/streak-stats)
