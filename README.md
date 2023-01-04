@@ -1,6 +1,6 @@
 ### Hi there, my name is Andreas 👋
 
-I'm a Python Develope based in Malta.
+I'm a Python Developer based in Malta.
 
 🏢 I'm currently working full-time with Stargate Studios as Pipeline Developer in the VFX industry
 ⚙️ I use python daily
