@@ -8,8 +8,6 @@ I'm a Python Developer based in Malta.
 📫 Reach me asap: LinkedIn or andreascalleja@gmail.com
 💜 Interests: football and football data analysis
 
-My first API built with FastAPI: https://thefootballdata.com/
-
-An API for football related data. Check out the GitHub link: https://github.com/andreasmalta1/football_data_api.git
+An API for football related data. Check out the GitHub link: https://github.com/andreasmalta1/football_data_api.git (currently offline)
 
 [![GitHub Streak](https://streak-stats.demolab.com/?user=andreasmalta1)](https://git.io/streak-stats)
